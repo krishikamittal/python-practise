@@ -1,7 +1,6 @@
-#Program: Demonstration of Python Operations
-#Topic: Menue based program
-# Program: Calculator Menu
-# Topic: Functions and Conditional Statements
+#Program: Demonstration of calculator using Python Operations
+#Topic: Functions and Conditional Statements
+
 def add(a, b):
     return a + b
 
