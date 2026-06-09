@@ -1,4 +1,4 @@
-#Program: Demonstration of Binary File Menu Based Program (FULL) using Python Operations
+#Program: Demonstration of Phonebook Binary File Menu Based Program and using Python Operations
 #Topic:Binary File, Python Operations
 
 import pickle
